@@ -1,0 +1,23 @@
+body{
+    background-image: url(/Images/wedding.jpeg);
+    background-size: cover;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+p{
+   color: midnightblue;
+    font-size: 40px;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 7px;
+    justify-content: right;
+    font-size: 30px;
+    color: white;
+}
+nav{
+    text-align: center;
+}

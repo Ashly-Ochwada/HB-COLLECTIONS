@@ -1,0 +1,20 @@
+h1{
+    font-size: 160px;
+    text-align: center;
+    color:black;
+}
+body{
+    background-image: url(/Images/piotr-szulawski-XjR-Y8PKeww-unsplash.jpg);
+    background-size: cover;
+}
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 7px;
+    justify-content: right;
+    font-size: 30px;
+    color: white;
+}
+nav{
+    text-align: center;
+}
